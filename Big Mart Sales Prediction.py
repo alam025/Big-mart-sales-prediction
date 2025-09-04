@@ -41,7 +41,7 @@ big_mart_data.shape
 
 # In[5]:
 
-
+#gives information about the data
 #getting some information about the dataset
 big_mart_data.info()
 
