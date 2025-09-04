@@ -44,6 +44,17 @@ This project implements a machine learning solution to predict sales for Big Mar
 
 The dataset contains sales data for 1559 products across 10 outlets of Big Mart chain stores.
 
+### 📥 Dataset Access
+
+The training dataset (`Train.csv`) is not included in this repository due to size constraints. 
+
+**To run this project:**
+1. Download the dataset from: [Kaggle Big Mart Sales](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
+2. Place `Train.csv` in the root directory
+3. Run the notebook
+
+**Dataset Size**: ~500KB | **Records**: 8,523 | **Features**: 12
+
 ### 🏷️ Features Description
 
 | Feature | Type | Description |
