@@ -329,6 +329,7 @@ regressor = XGBRegressor()
 
 # In[118]:
 
+#fit on training data
 
 regressor.fit(X_train,Y_train)
 
